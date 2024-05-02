@@ -13,7 +13,7 @@ Utilizei o chat gpt para fazer esse projeto e editei no Word, para formatação 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/viladavi6/lab-natty-or-not/blob/main/C%C3%B3digo%20das%20Estrelas%20-%20e-book.pdf)
 
 ## 💭 Reflexão
 Criar esse e-book foi divertido e me mostrou o quanto a inteligência artificial pode ser incrível.
